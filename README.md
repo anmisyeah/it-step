@@ -1,1 +1,1 @@
-https://anmisyeah.github.io/itstep-cv/cv
+https://anmisyeah.github.io/it-step/cv
