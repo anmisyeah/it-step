@@ -10,29 +10,32 @@
 <p> <b>Professional Profile: </b>
 
 <ul>
-<li>Mathematics and Computer Science Teacher with two years of experience.</li>
+<li> Mathematics and Computer Science Teacher with two years of experience.c</li>
 </ul>
 
 <p> <b> Technical Skills: </b>
- 
-* HTML,CSS beginer
-* JavaScript beginer
+
+<ul>
+<li> HTML,CSS beginer </li>
+<li> JavaScript beginer </li>
+</ul>
 
 <p> <b> Professional Experience: </b>
- 
-* It-Step Academy 2021
-* Additional programming classes at the University 2019 - 2020
+<ul> 
+<li> It-Step Academy 2021 </li>
+<li> Additional programming classes at the University 2019 - 2020 </li>
+</ul>
 
 <p> <b> Education: </b>
- 
-* Mogilev State University named after A.A Kuleshov
-Master's Degree in Educational Science 2019 - 2020
-Bachelor's Degree in Mathematics and Computer Science 2015 - 2019
-
+<ul> 
+<li> Mogilev State University named after A.A Kuleshov <br>
+Master's Degree in Educational Science 2019 - 2020 <br>
+Bachelor's Degree in Mathematics and Computer Science 2015 - 2019 </li>
+</ul>
 <p> <b> Additional Information: </b>
- 
-* Intermediate English Level
-
+<ul>
+<li> Intermediate English Level </li>
+</ul>
 <p> <b>Code example: </b>
 
 ```javascript
