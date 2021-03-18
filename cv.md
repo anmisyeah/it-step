@@ -1,5 +1,5 @@
 <div align="right">
-![alt text](https://github.com/anmisyeah/it-step/blob/gh-pages/Фото.jpg?raw=true)
+<img src="https://github.com/anmisyeah/it-step/blob/gh-pages/Фото.jpg?raw=true" width="100" vspace="5" hspace="5" alt = "Фото для cv">
 </div>
 <p> <b> Contacs: </b>
 <ul>
