@@ -57,7 +57,7 @@ textarea{
     width: 350px;
 }
 .img{
-    border: 3px solid #484343;
+    outline: 3px solid #484343;
 }
 footer {
     position: fixed;
@@ -65,4 +65,34 @@ footer {
     padding: 10px;
     background: #39b54a;
     width: 100%;
+}
+a:hover{
+    color: darkturquoise;
+}
+
+textarea,input{
+    text-transform: capitalize;
+}
+img:hover{
+    outline:none;
+}
+.colortext {
+    background-color: dimgrey;
+    color: #eaeaea;
+}
+
+body{
+    background: #f8f8f8;
+}
+.f1:first-letter{
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+table{
+    border-collapse: collapse;
+}
+th,td{
+    padding: 3px;
+    border: 1px solid black;
+    text-align: center;
 }
